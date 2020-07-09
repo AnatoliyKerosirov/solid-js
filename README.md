@@ -1,3 +1,3 @@
 "# solid-js" 
 
-SOLID principle, examples on Javascript
+SOLID principles, examples on Javascript
